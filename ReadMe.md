@@ -45,3 +45,7 @@
 > To use the function to till you more about git functions use ```git help```
 
 ## Getting Started
+> ```pwd``` prints the current directory
+> 
+> Change directory path with ```cd "file path"```
+> 
