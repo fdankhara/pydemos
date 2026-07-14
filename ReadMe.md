@@ -47,5 +47,9 @@
 ## Getting Started
 > ```pwd``` prints the current directory
 > 
-> Change directory path with ```cd "file path"```
-> 
+> Change directory path with ```cd "file path"```.
+> You can also drag the file into git to copy the directory.
+>
+> Initialise a repository with ```git init```
+>
+> ```ls -la``` will list all files in the folder
