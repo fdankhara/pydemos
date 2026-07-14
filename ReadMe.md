@@ -13,7 +13,11 @@
 >
 > To create an 'alternate timeline' for tests use ```git branch```. This creates a branch parallel to the main one.
 > To switch between branches use ```git switch```. If you have changes you want to keep, make sure to add and commit them betfore switching between branches. 
+>```git checkout``` works similarly but with branch IDs.
 >
+> To combine two timelines use ```git merge```.
+>
+>  To get a list of everything that has happened in the repository including commit IDs run ``git log --oneline```
 > Add configuration using ```git config --local user.email "youremail@example.com"```
 > 
 > 
