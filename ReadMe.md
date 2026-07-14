@@ -27,3 +27,17 @@
 > User config is through ```git config --global```
 >
 > Project configuration is simply through ```git config```
+>
+> ```cat ~/.gitconfig``` will show all configuration settings
+
+### 5 Important configs
+> ```git config --global user.name "Your Full Name"```
+>
+> ```git config --global user.email "someone@nowhere.com"```
+>
+> ```git config --global color.ui true```
+>
+> ```git config --global init.defaultBranch main```
+>
+> For writing messages, config with ```git config --global core.editor "notepad"```
+
