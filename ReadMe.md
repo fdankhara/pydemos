@@ -41,3 +41,7 @@
 >
 > For writing messages, config with ```git config --global core.editor "notepad"```
 
+## Git help
+> To use the function to till you more about git functions use ```git help```
+
+## Getting Started
