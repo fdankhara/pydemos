@@ -17,8 +17,13 @@
 >
 > To combine two timelines use ```git merge```.
 >
->  To get a list of everything that has happened in the repository including commit IDs run ``git log --oneline```
+> To get a list of everything that has happened in the repository including commit IDs run ``git log --oneline```
+> 
 > 
 > Add configuration using ```git config --local user.email "youremail@example.com"```
 > 
-> 
+> System config is through ```git config --system```
+>
+> User config is through ```git config --global```
+>
+> Project configuration is simply through ```git config```
