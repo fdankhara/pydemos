@@ -11,6 +11,9 @@
 >
 > ```git status``` will list out the state of each changed file
 >
+> To create an 'alternate timeline' for tests use ```git branch```. This creates a branch parallel to the main one.
+> To switch between branches use ```git switch```. If you have changes you want to keep, make sure to add and commit them betfore switching between branches. 
+>
 > Add configuration using ```git config --local user.email "youremail@example.com"```
 > 
 > 
