@@ -19,7 +19,7 @@
 >
 > To get a list of everything that has happened in the repository including commit IDs run ``git log --oneline```
 > 
-> 
+## Configuration
 > Add configuration using ```git config --local user.email "youremail@example.com"```
 > 
 > System config is through ```git config --system```
